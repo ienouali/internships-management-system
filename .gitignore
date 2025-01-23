@@ -1,0 +1,7 @@
+#No modules
+node_modules/.bin/mime
+node_modules/
+*.env
+client/.idea/
+client/node_modules/
+.idea/

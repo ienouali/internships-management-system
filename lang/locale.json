@@ -1,0 +1,133 @@
+{
+    "msgAuthFail": {
+        "en": "authentication fail, try again please",
+        "fr": "echec d'authentification, merci de vérifier votre saisie"
+    },
+    "usersNotFound": {
+        "en": "users not found",
+        "fr": "liste d'utulisateur non trouvé"
+    },
+    "msgUpdateTraineeInfos": {
+        "en": "trainee infos updated successfully",
+        "fr": "les informations du stagiaires a était modifié avec success"
+    },
+    "msgTraineeNotFound": {
+        "en": "trainee not found",
+        "fr": "l'identifiant de stagiaire non trouvé"
+    },
+    "msgUserNotFound": {
+        "en": "user not found",
+        "fr": "l'identifiant d'utilisateur non trouvé"
+    },
+
+    "userDeleted": {
+        "en": "user deleted successfully",
+        "fr": "cet utilisateur à était supprimé avec succès"
+    },
+    "msgSupervisorNotFound": {
+        "en": "supervisor not found",
+        "fr": "l'identifiant d'encadrant non trouvé"
+    },
+    "msgTraineeDeleted": {
+        "en": "trainee deleted successfully",
+        "fr": "ce stagiaire à était supprimé avec succés"
+    },
+    "msgListTraineeEmpty" : {
+        "en" : "list of trainees is empty",
+        "fr" : "la liste des stagiaires est vide"
+    },
+    "msgSupervisorExist" : {
+        "en" : "this supervisor is already exist",
+        "fr" : "cet encadrant est déja existe"
+    },
+    "msgSupervisorAdded" : {
+        "en" : "supervisor added successfully",
+        "fr" : "l'encadrant à était ajouté avec succès"
+    },
+
+    "msgStatus" : {
+        "en" : "file created",
+        "fr" : "fichier crée"
+    },
+    "failStatus" : {
+        "en" : "fail",
+        "fr" : "échouer"
+    },
+    "successStatus" : {
+        "en" : "success",
+        "fr" : "succés"
+    },
+    "msgFileNotAllowed" : {
+        "en" : "files type images not accepted",
+        "fr" : "les fichiers de type image ne sont pas acceptés"
+    },
+    "msgDemandAlreadyExist" : {
+        "en" : "this demand is already exist",
+        "fr" : "cette demande existe déja"
+    },
+    "msgDemandAdded" : {
+        "en" : "demand added successfully",
+        "fr" : "la demande à était ajouté avec succés"
+    },
+    "msgErrorDataSent" : {
+        "en" : "data sent not valid",
+        "fr" : "les données envoyées sont non valides"
+    },
+    "msgListDemandsEmpty" : {
+        "en" : "list of demands is empty",
+        "fr" : "la liste des demandes est vide"
+    },
+    "msgListSupervisorsEmpty" : {
+        "en" : "list of supervisors is empty",
+        "fr" : "la liste des encadrants de stage est vide"
+    },
+    "msgListInternshipsEmpty" : {
+        "en" : "list of internships is empty",
+        "fr" : "la liste des stages en cours est vide"
+    },
+    "msgListRefusedDemandsEmpty" : {
+        "en" : "list of refused demands is empty",
+        "fr" : "la liste des demandes refusées est vide"
+    },
+    "msgListCompletedEmpty" : {
+        "en" : "list of internship with a completed duration is empty",
+        "fr" : "la liste des stages ayant une durée terminée est vide"
+    },
+    "msgListClosedEmpty" : {
+        "en" : "list of closed internship is empty",
+        "fr" : "la liste des stages conclus est vide"
+    },
+    "demandDeleted" : {
+        "en" : "this demand are deleted successfully",
+        "fr" : "la demande à était supprimé avec succés"
+    },
+    "demandsListNotFound" : {
+        "en" : "list of demands are not found",
+        "fr" : "la liste des demandes non trouvées"
+    },
+    "demandNotFound" : {
+        "en" : "demand not found",
+        "fr" : "la demande non trouvée"
+    },
+    "demandRefused" : {
+        "en" : "this demand are refused successfully",
+        "fr" : "la demande à était refusé avec succès"
+    },
+    "deletionSuccessfully" : {
+        "en" : "deletion successfully",
+        "fr" : "la suppression à était faite avec succès"
+    },
+    "dataSaved" : {
+        "en" : "data are saved successfully",
+        "fr" : "les donnés sont enregistrer avec succés"
+    },
+    "error" : {
+        "en" : "error, try again please",
+        "fr" : "erreur non reconnue"
+    },
+    "closedSuccessfully" : {
+        "en" : "internship are closed successfully",
+        "fr" : "ce stage à était conclu avec succés"
+    }
+
+}
