@@ -1,5 +1,7 @@
 # Internships Management Web Application
 
+Project Dates: 01//12/2019 to 01/03/2020
+
 **Overview**
 
 This web application empowers companies to streamline their internship programs with a user-friendly interface. Key features include:
