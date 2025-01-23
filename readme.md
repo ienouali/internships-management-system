@@ -16,6 +16,10 @@ This web application empowers companies to streamline their internship programs 
 * **Deployment:** Heroku
 * **Authentication:** JWT
 
+![novyinternships](https://github.com/user-attachments/assets/73bf0e5a-1630-4c9f-8124-575b9e25d2bf)
+
+![novyinternships-second](https://github.com/user-attachments/assets/88b24c98-3bcb-4ece-b565-7728a05e1973)
+
 
 **Installation**
 
